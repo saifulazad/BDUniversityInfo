@@ -11,6 +11,7 @@ Beautiful soup
 
 ##Prerequsites
 - python 2.7.9 or above 
+- Git Bash 
 
 
 ##How to run 
